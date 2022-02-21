@@ -15,7 +15,7 @@ class _app {
   titleChanger = (text, delay) => {
     if (!text) return;
 
-    delay = delay || 2000;
+    delay = delay || 500;
 
     let counter = 0;
 
@@ -28,7 +28,7 @@ class _app {
   iconChanger = (urls, delay) => {
     if (!urls) return;
 
-    delay = delay || 2000;
+    delay = delay || 1000;
 
     let counter = 0;
 

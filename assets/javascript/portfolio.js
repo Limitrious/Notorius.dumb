@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['N', 'No', 'Not', 'Noto', 'Notor', 'Notori', 'Notorio', 'Notoriou', 'Notorious', 'Notorious.', 'Notorious.d', 'Notorious.du', 'Notorious.dum', 'Notorious.dumb', 'Notorious.dumb', 'Notorious.dumb', 'Notorious.dumb']);
+  app.titleChanger(['N|>','N-', 'No|>', 'No-', 'Not|>', 'Not-', 'Noto|>', 'Noto-', 'Notor|>', 'Notor-', 'Notori|>', 'Notori-', 'Notorio|>', 'Notorio-', 'Notoriou|>', 'Notoriou-', 'Notorious|>', 'Notorious-', 'Notorious.|>', 'Notorious.-', 'Notorious.d|>', 'Notorious.d-', 'Notorious.du|>', 'Notorious.du-', 'Notorious.dum|>', 'Notorious.dum-', 'Notorious.dumb|>', 'Notorious.dumb', 'Notorious.dumb', 'Notorious.dumb', 'TIME', 'TIME', 'REWIND', 'REWIND']);
   app.iconChanger(['assets/icons/icons/gigachad.png', 'assets/icons/icons/kid.png', 'assets/icons/icons/nikodadfuck.png', 'assets/icons/icons/corgi.png', 'assets/icons/icons/shiba.png']);
 });
 
